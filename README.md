@@ -1,6 +1,6 @@
 # PD_UI_Unity_DP
 
-###Veicamā pārbaudes darba izpildīšanas kritēriji
+### Veicamā pārbaudes darba izpildīšanas kritēriji
 - [x] Nodrošināt projekta versionēšanu
 - [x] Izveidot paneli,ar tēla apģērba izvēli
 - [] Pievienot audio failus
